@@ -6,3 +6,6 @@ konten drone
 interviw bi
 vlog
 nyuci motor
+java
+python
+bquerry
